@@ -1,0 +1,1 @@
+print(*sorted(set(input() for _ in range(int(input()))), key=lambda a : (len(a),a)),sep="\n")
