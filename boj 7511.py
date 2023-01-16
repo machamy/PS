@@ -38,5 +38,6 @@ def solve():
 
 T = int(input())
 for i in range(T):
-    print(f"Scenario {i + 1}")
+    print(f"Scenario {i + 1}:")
     solve()
+    print()
