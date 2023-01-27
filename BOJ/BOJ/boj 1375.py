@@ -35,16 +35,16 @@ def solve():
     for _ in range(Q):
         a, b = input().split()
         if a == b:
-            print('gg')
+            result.append("gg")
             continue
-        # if a not in data:
-        #     data[a] = bfs(a)
-        # if b not in data:
-        #     data[b] = bfs(b)
+        if a not in data:
+            data[a] = bfs(a)
+        if b not in data:
+            data[b] = bfs(b)
 
-        if b in bfs(a):
+        if b in data[a]:
             result.append(b)
-        elif a in bfs(b):
+        elif a in data[b]:
             result.append(a)
         else:
             result.append("gg")
