@@ -1,0 +1,2 @@
+
+    if prnts[x] == x:
