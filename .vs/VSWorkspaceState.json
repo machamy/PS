@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BOJ",
+    "\\BOJ\\BOJ",
+    "\\BOJ\\BOJ\\cpp"
   ],
-  "SelectedNode": "\\C:\\Users\\macha\\Source\\Repos\\machamy\\PS",
+  "SelectedNode": "\\BOJ\\BOJ\\cpp\\boj_11653.cpp",
   "PreviewInSolutionExplorer": false
 }
