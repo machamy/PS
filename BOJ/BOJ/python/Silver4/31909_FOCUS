@@ -1,0 +1,22 @@
+N = int(input())
+cmds = list(map(int,input().split()))
+K = int(input())
+arr = [i for i in range(8)]
+
+def decode(raw):
+    result = []
+    for i in range(7,-1,-1):
+        if raw >= (1 << i):
+            raw -= (1 << i)
+            result.append(i)
+
+    return result
+
+
+
+for cmd in cmds:
+    if len(decoded := decode(cmd)) == 2:
+        a,b = decoded[0], decoded[1]
+        arr[a], arr[b] = arr[b], arr[a]
+print(arr)
+print(arr[K])
