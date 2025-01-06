@@ -59,9 +59,20 @@
         "xloctime": "cpp",
         "xmemory": "cpp",
         "xtr1common": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "bitset": "cpp"
     },
-   "code-runner.executorMap": {
-    "cpp": "cd $dir && g++ \"$fileName\" -o \"$fileNameWithoutExt.exe\" && & \"$dir$fileNameWithoutExt.exe\""
-}
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+    
+
+        "javascript": "node",
+        "java": "cd $dir && javac \"$fileName\" && java \"./$fileNameWithoutExt\"",
+        "c": "cd $dir && gcc \"$fileName\" -o \"temp\" && &\"temp\"",
+        "cpp": "cd $dir && g++ \"$fileName\" -o \"temp\" && &\"./temp\"",
+        "objective-c": "cd $dir && gcc -framework Cocoa \"$fileName\" -o \"$fileNameWithoutExt\" && &\"./$fileNameWithoutExt\"",
+        "go": "go run",
+        "python": "python",
+        "ruby": "ruby"
+    }
 }
