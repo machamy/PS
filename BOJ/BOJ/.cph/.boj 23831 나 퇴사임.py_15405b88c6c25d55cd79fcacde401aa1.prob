@@ -1,0 +1,1 @@
+{"name":"Local: boj 23831 나 퇴사임","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 23831 나 퇴사임.py","tests":[{"id":1736215828359,"input":"2\n1 1\n32 91 100 100\n57 8 68 71","output":"162"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 23831 나 퇴사임.py","group":"local","local":true}

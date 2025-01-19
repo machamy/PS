@@ -1,0 +1,1 @@
+{"name":"Local: boj 9372 상근이의 여행","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 9372 상근이의 여행.py","tests":[{"id":1736219429089,"input":"2\n3 3\n1 2\n2 3\n1 3\n5 4\n2 1\n2 3\n4 3\n4 5","output":"2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 9372 상근이의 여행.py","group":"local","local":true}
