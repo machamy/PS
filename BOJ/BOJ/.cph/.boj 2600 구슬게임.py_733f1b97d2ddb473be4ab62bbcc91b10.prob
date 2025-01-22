@@ -1,0 +1,1 @@
+{"name":"Local: boj 2600 구슬게임","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 2600 구슬게임.py","tests":[{"id":1737327522671,"input":"1 3 4\n4 1\n5 5\n10 2\n15 16\n30 14","output":"A\nB\nA\nA\nB"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 2600 구슬게임.py","group":"local","local":true}
