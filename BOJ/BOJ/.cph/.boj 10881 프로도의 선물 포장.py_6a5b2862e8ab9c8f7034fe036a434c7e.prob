@@ -1,0 +1,1 @@
+{"name":"Local: boj 10881 프로도의 선물 포장","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 10881 프로도의 선물 포장.py","tests":[{"id":1737281937042,"input":"2\n3 4\n5 6\n4 1\n3 3\n2 2\n1 1","output":"50\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 10881 프로도의 선물 포장.py","group":"local","local":true}

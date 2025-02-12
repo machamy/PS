@@ -1,0 +1,1 @@
+{"name":"Local: boj 1897 토달기","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 1897 토달기.py","tests":[{"id":1736144283319,"input":"9 cal\ncal\ncalf\ncalfs\ncall\ncalls\nchoral\nchorale\ncoal\ncoral","output":"chorale"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 1897 토달기.py","group":"local","local":true}

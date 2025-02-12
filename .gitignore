@@ -1,0 +1,43 @@
+# Ignore C++ build files
+*.o
+*.obj
+*.exe
+*.out
+*.class
+*.dll
+*.so
+*.dylib
+
+# Ignore C++ debugging files
+*.dSYM/
+*.pdb
+
+# Ignore C++ project files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Python virtual environment directories
+env/
+venv/
+
+# Ignore C# build files
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# Ignore C# project files
+*.csproj
+*.user
+*.suo
+*.sln
+*.cache
+*.ide
+
+temp.exe
