@@ -60,7 +60,13 @@
         "xmemory": "cpp",
         "xtr1common": "cpp",
         "unordered_map": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "random": "cpp",
+        "chrono": "cpp",
+        "forward_list": "cpp",
+        "iomanip": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp"
     },
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
