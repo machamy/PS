@@ -82,5 +82,6 @@
         "go": "go run",
         "python": "python",
         "ruby": "ruby"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

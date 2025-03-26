@@ -1,0 +1,1 @@
+{"name":"Local: boj 32718 우선순위 큐와 시뮬레이션","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 32718 우선순위 큐와 시뮬레이션.py","tests":[{"id":1742616290348,"input":"5 10 5\n7 3 10 8 4\n4 8 6 7 8","output":"8 9 8 9 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 32718 우선순위 큐와 시뮬레이션.py","group":"local","local":true}
