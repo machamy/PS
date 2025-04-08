@@ -1,0 +1,1 @@
+{"name":"Local: boj 1115 순열","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 1115 순열.cpp","tests":[{"id":1743572148601,"input":"5\n2 0 1 4 3","output":"2"},{"id":1743572186381,"input":"3\n2 0 1","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 1115 순열.cpp","group":"local","local":true}
