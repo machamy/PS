@@ -1,9 +1,9 @@
+N = int(input())
+N = 1000 - N
 
-
-A,B = [],[]
-print(id(A),id(B))
-def f():
-    global A,B
-    A,B = B,A
-f()
-print(id(A),id(B))
+res = 0
+for e in [500,100,50,5,1]:
+    print(N, e, N // e, N % e)
+    res += N // e
+    N %= e
+print(res)
