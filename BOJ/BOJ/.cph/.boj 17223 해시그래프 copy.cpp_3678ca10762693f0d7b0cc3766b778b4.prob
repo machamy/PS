@@ -1,0 +1,1 @@
+{"name":"Local: boj 17223 해시그래프 copy","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 17223 해시그래프 copy.cpp","tests":[{"id":1743771874104,"input":"4 4\n0 1\n1 2\n3 1\n2 1\n1 3 3 0","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 17223 해시그래프 copy.cpp","group":"local","local":true}
