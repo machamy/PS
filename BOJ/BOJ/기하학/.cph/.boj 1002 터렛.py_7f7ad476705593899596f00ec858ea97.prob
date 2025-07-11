@@ -1,0 +1,1 @@
+{"name":"Local: boj 1002 터렛","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\기하학\\boj 1002 터렛.py","tests":[{"id":1746796598336,"input":"3\n0 0 13 40 0 37\n0 0 3 0 7 4\n1 1 1 1 1 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\기하학\\boj 1002 터렛.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: boj 7982 순열 그래프의 연결성 판별","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 7982 순열 그래프의 연결성 판별.py","tests":[{"id":1746969732677,"input":"4\n2 3 1 4","output":"2\n3 1 2 3\n1 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 7982 순열 그래프의 연결성 판별.py","group":"local","local":true}
