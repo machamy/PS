@@ -40,4 +40,6 @@ venv/
 *.cache
 *.ide
 
+.cph
+
 temp.exe
