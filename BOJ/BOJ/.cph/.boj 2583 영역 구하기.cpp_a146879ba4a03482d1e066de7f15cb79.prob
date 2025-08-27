@@ -1,0 +1,1 @@
+{"name":"Local: boj 2583 영역 구하기","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 2583 영역 구하기.cpp","tests":[{"id":1747826573807,"input":"5 7 3\n0 2 4 4\n1 1 2 5\n4 0 6 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 2583 영역 구하기.cpp","group":"local","local":true}

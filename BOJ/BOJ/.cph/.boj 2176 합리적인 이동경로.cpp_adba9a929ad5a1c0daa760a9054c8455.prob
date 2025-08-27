@@ -1,1 +1,0 @@
-{"name":"Local: boj 2176 합리적인 이동경로","url":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 2176 합리적인 이동경로.cpp","tests":[{"id":1747025845296,"input":"4 4\n1 3 1\n3 2 2\n1 4 2\n2 4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\macham\\Workspace\\PS\\BOJ\\BOJ\\boj 2176 합리적인 이동경로.cpp","group":"local","local":true}
