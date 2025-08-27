@@ -68,7 +68,8 @@
         "ratio": "cpp",
         "sstream": "cpp",
         "stack": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "numeric": "cpp"
     },
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
