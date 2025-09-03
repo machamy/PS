@@ -69,7 +69,11 @@
         "sstream": "cpp",
         "stack": "cpp",
         "map": "cpp",
+<<<<<<< HEAD
         "array": "cpp"
+=======
+        "numeric": "cpp"
+>>>>>>> b6af0d0af093b98b62ead779e0e032be8a681434
     },
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
