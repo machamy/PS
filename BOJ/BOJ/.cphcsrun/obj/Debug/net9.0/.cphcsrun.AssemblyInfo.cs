@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute(".cphcsrun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f84303532880c86c4d26a48d00ae86066c8b492d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b5d8ec1c5854c363a6a463ce2cbdefe867ffb6b")]
 [assembly: System.Reflection.AssemblyProductAttribute(".cphcsrun")]
 [assembly: System.Reflection.AssemblyTitleAttribute(".cphcsrun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
