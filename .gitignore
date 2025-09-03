@@ -41,5 +41,6 @@ venv/
 *.ide
 
 .cph
+.prob
 
 temp.exe
