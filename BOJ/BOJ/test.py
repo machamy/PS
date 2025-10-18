@@ -1,6 +1,10 @@
-A, B, C = map(int, input().split())
+import random
 
-X = B / A
-Y = 3 * X
-ans = Y * C
-print(int(ans)) 
+def generate_test_case():
+    N = random.randint(1, 50)
+    arr = [random.randint(1, 1000) for _ in range(N)]
+    return N, arr
+
+N, arr = generate_test_case()
+print(N)
+print(" ".join(map(str, arr)))
